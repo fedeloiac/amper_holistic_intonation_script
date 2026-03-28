@@ -1,6 +1,6 @@
 # Multi-Dimensional Visualization for AMPER project
 
-**AMPER-MultiVis** is a Python-based visualization tool developed for the **AMPER Project** (Atlas Multimédia Prosodique de l'Espace Roman). It provides a holistic assessment of prosodic factors and structural features of intonation from a geo-variational perspective. By avoiding discrete simplifications, the script allows for the simultaneous and global examination of melodic modulations ($f_0$), intensity values, and vocalic durations.
+**This Multi-Dimensional visualizatio** is a Python-based visualization tool developed for the **AMPER Project** (Atlas Multimédia Prosodique de l'Espace Roman). It provides a holistic assessment of prosodic factors and structural features of intonation from a geo-variational perspective. By avoiding discrete simplifications, the script allows for the simultaneous and global examination of melodic modulations ($f_0$), intensity values, and vocalic durations.
 
 ## How It Works
 The pipeline translates three-dimensional prosodic data into a single, intuitive multidimensional space:
