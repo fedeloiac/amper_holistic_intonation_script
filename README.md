@@ -44,4 +44,3 @@ If you use this tool in your research, please cite the presentation from the **C
 > Lo Iacono, F., De Iacovo, V., & Romano, A. (2026). *Describir a variación da entoación de xeito global: unha nova forma de visualizar os datos do proxecto AMPER*. Congreso Internacional de Dialectoloxía e Sociolingüística (CIDS 2026), Santiago de Compostela.
 
 ---
-**License:** Open source for the AMPER research community.
